@@ -1,4 +1,7 @@
 # Deteccao-de-linhas-de-plantio-
+
+link da iamgem: https://drive.google.com/file/d/1BQs-sHg7YYyYRBqDEhJC0q52KjXPnSHb/view?usp=sharing
+
 A Hough Line Transform é uma técnica poderosa para detectar linhas em imagens, incluindo imagens de drones. Ela funciona convertendo pontos da imagem em uma representação paramétrica de linhas, o que permite a detecção de linhas mesmo em imagens com ruído ou descontinuidades.
 
 Esssas são as etapas:
